@@ -1,0 +1,394 @@
+@import url(null.css);
+/*====================================================*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&display=swap');
+/*====================================================*/
+
+
+/* font-family: 'Inter', sans-serif; */
+/* font-family: 'Montserrat', sans-serif; */
+
+
+/* ============================== */
+.wrapper{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #848FAC;
+}
+/* ===============Header=============== */
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100%;
+}
+
+.header-content{
+    padding: 56px 0px 0px 0px;
+    color: #192252;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 0px 0px 56px 0px;
+}
+
+.logo {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    display: inline-block;
+    margin: 0px 343px 0px 0px;
+    font-size: 32px;
+}
+.navigation {
+    display: inline-block;
+    margin: 0px 340px 0px 0px;
+}
+.navigation li{
+    text-align: center;
+    display: inline-block;
+    margin: 0px 32px 0px 0px;
+}
+li.last-li{
+    margin: 0px 0px 0px 0px;
+}
+
+
+.button-common{
+    display: inline-block;
+    color: #fff;
+    text-shadow: 1px 3px 13px #192252, 2px 1px 14px rgb(0, 0, 0),
+     2px 1px 16px rgb(0, 0, 0),
+     3px 3px 12px rgb(0, 0, 0), 
+     2px 1px 10px rgb(0, 0, 0),
+     2px 1px 5px rgb(0, 0, 0),
+     2px 2px 3px rgb(0, 0, 0), 
+     2px 1px 1px rgb(0, 0, 0);
+}
+
+/* =========================preview============================================== */
+
+
+.preview-content {
+    margin: 0px 0px 161px 0px;
+}
+.preview-desc{
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    padding: 215px 0px 0px 0px;
+    max-width: 580px;
+}
+
+.com-title{
+    margin: 0px 0px 24px 0px;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+    color: #192252;
+}
+.preview-text {
+    margin: 0px 24px 32px 0px;
+    
+    padding: 0px 0px 0px 0px;
+}
+
+/* ====================Картинки======================== */
+
+
+.img-1 {
+    padding: 80px 0px 0px 0px;
+}
+.img-2 {
+    margin: 0px 24px;
+    padding: 166px 0px 0px 0px;
+}
+.img-3 {
+    
+    padding: 80px 0px 0px 0px;
+}
+
+/* ================Второй блок============================ */
+
+
+.img-13 {
+    padding: 80px 0px 0px 0px;
+    margin: 0px 126px 80px 0px;
+}
+.second-desc {
+    max-width: 670px;
+    display: inline-block;
+    padding: 185px 0px 0px 0px;
+}
+.second-title {
+    margin: 0px 0px 24px 0px;
+}
+
+.second-text {
+    margin: 0px 0px 16px 0px;
+}
+.txt-2{
+    margin: 0px 0px 32px 0px;
+}
+
+
+/* =========================третий блок========================= */
+
+
+.desc{
+    max-width: 580px;
+}
+
+.third-desc {
+    display: inline-block;
+    padding: 113px 0px 0px 0px;
+}
+
+
+.third-text {
+     display: inline-block;
+      margin: 0px 126px 0px 0px;
+}
+
+.img-21 {
+    text-align: right;
+    padding: 50px 0px 0px 0px;
+    margin: 0px 0px 145px 0px;
+}
+/* ============================== */
+.img-18 {
+    margin: -100px 0px 80px 0px;
+}
+.third-desc-2 {
+    display: inline-block;
+    margin: 0px 0px 0px 126px;
+}
+
+/* ================================== */
+
+
+.columns {
+    text-align: center;
+    padding: 80px 0px 0px 0px;
+}
+
+.columns-desc {
+    margin: 0 auto;
+ 
+}
+
+.columns-subtitle {
+    margin: 0px 0px 32px 0px;
+}
+
+.columns-button {
+    margin: 0px 0px 100px 0px;
+}
+/* ===================Item========================== */
+
+
+
+.width-img{
+    max-width: 370px;
+}
+
+.img-10 {
+    margin: 0px 20px;
+}
+.img-12 {
+    margin: 0px 0px 30px 0px;
+
+}
+
+.wrap {
+    text-align: center;
+    max-width: 370px;
+    display: inline-block;
+}
+
+.item-title {
+ font-size: 24px;
+}
+
+.item-text {
+    line-height: 1.3;
+    margin: 0px 0px 30px 0px;
+
+}
+
+.item-link {
+  margin: 0px 0px 150px 0px;
+}
+
+.item-wrap-2 {
+    margin: 0px 15px;
+}
+
+/* =======================.customer-reviews============================ */
+
+
+.reviews-conteiner {
+    max-width: 800px;
+    text-align: center;
+}
+
+.reviews-img {
+
+    margin: 0px 0px 60px 0px;
+}
+.reviews-text {
+    margin: 0px 0px 40px 0px;
+    line-height: 1.5;
+}
+.user-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    margin: 0px 0px 25px 0px;
+}
+.reviews-list {
+    display: inline-block;
+}
+
+.reviews-list li{
+    display: inline-block;
+    margin: 0px 0px 80px 0px;
+}
+
+
+
+/* =======================footer=============================== */
+
+.footer {
+    background: #0B265A;
+
+}
+.footer-container {
+    font-size: 16px;
+    color: #D9DBDE;
+}
+
+
+/* ======================= */
+.footer-blok-1 {
+    max-width: 200px;
+    display: inline-block;
+    margin: 0px 400px 0px 0px;
+}
+
+.footer-logo {
+    color: #ffffff;
+    font-weight: 700;
+    margin: 0px 0px 15px 0px;
+}
+
+.footer-text {
+    line-height: 1.7;
+    margin: 0px 0px 39px 0px;
+}
+.social-networks {
+    display: inline-block;
+
+}
+.twitter{
+    margin: 0px 30px 0px 0px;
+}
+/* ========================= */
+.blok-container{
+    max-width: 200px;
+    display: inline-block;
+}
+.blok-container li{
+    margin: 0px 0px 24px 0px;
+}
+
+.nav-title{
+    font-weight: 700;
+    margin: 0px 0px 24px 0px;
+}
+
+
+.footer-blok-2 {
+    display: inline-block;
+}
+
+/* ========================= */
+.footer-blok-3 {
+    display: inline-block;
+    margin: 50px;
+}
+
+/* ========================== */
+.footer-blok-4 {
+    display: inline-block;
+}
+
+/* =======================Ссылка на вторую страницу=========================== */
+.second-site{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: #848FAC;
+    text-shadow: 15px 13px 9px rgb(0, 0, 0);
+    /* text-decoration: underline; */
+    margin: 0px 0px 80px 0px;
+}
+
+/* ======================Вторая страница======================= */
+
+
+.wrapper-2 {
+    font-family: Lato;
+    font-size: 16px;
+    color: #424551;
+    line-height: 160%;
+}
+
+.main {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.title-hr {
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    color: #1E212C;
+    margin: 0px 0px 92px 0px;
+}
+.main-img {
+    margin: 0px 0px 60px 0px;
+}
+.subtitle-text {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1E212C;
+    margin: 0px 0px 24px 0px;
+}
+
+.text {
+    margin: 0px 0px 45px 0px;
+}
+.text-1{
+    margin: 0px 0px 30px 0px;
+}
+
+.text-info {
+    padding: 0px 0px 0px 58px;
+    margin: 0px 0px 45px 0px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+}
+
+.above-list{
+    margin: 0px 0px 24px 0px;
+}
+
+.list-text{
+    margin: 0px 0px 24px 0px;
+}
+
+.list-text li{
+    margin: 0px 0px 4px 0px;
+    padding: 0px 0px 0px 16px;
+}
